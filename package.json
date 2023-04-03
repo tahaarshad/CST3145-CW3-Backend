@@ -1,0 +1,17 @@
+{
+  "name": "cst3145-coursework-main",
+  "version": "1.0.0",
+  "description": "### Repository - https://github.com/tahaarshad/CST3145-Coursework",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0"
+  }
+}
